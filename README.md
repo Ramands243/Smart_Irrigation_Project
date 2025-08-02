@@ -1,4 +1,4 @@
-# 🌱 Smart Irrigation System using Machine Learning (Random Forest)
+ # 🌱 Smart Irrigation System using Machine Learning
 
 A **Machine Learning-based Smart Irrigation System** that **predicts optimal irrigation needs** for farm parcels using **sensor data** like soil moisture, temperature, humidity, and rainfall.  
 This project aims to **optimize water usage, improve crop yield, and promote sustainable agriculture**.
@@ -79,9 +79,9 @@ A **smart, automated irrigation system** using **historical and real-time sensor
 Smart_Irrigation_Project/
 │
 ├── irigation_System_data.csv          # Dataset
-├── Irrigation_System.ipynb           # Jupyter Notebook with ML workflow
+├── Irrigation_System.ipynb            # Jupyter Notebook with ML workflow
 ├──  smart_irrigation_model.pkl        # Saved Random Forest model (optional)
-└── README.md                           # Project Documentation
+└── README.md                          # Project Documentation
 ```
 
 ---
